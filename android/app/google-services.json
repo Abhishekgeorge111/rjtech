@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173763994397",
+    "project_id": "rjtech-233c2",
+    "storage_bucket": "rjtech-233c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173763994397:android:464400ab472dfec5c6f7f4",
+        "android_client_info": {
+          "package_name": "com.example.rjtech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDO-ETBeA8T8gDJiW7H6m96CO2GuLbIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
